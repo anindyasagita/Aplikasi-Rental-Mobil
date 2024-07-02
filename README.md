@@ -35,4 +35,4 @@ Masuk ke folder dengan perintah
 #### Login
 
 -   email = admin@admin.com
--   password = 123
+-   password = admin
