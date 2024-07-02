@@ -117,7 +117,7 @@
             Aplikasi Rental Mobil
         </div>
         <!-- Default to the left -->
-        <strong><a href="https://wa.me/628179851011" target="_blank" class="no-underline">Copyright &copy; 2024 Ali Mochtar Development System</a>.</strong> All rights reserved.
+        <strong><a href="https://wa.me/628179851011" target="_blank" class="no-underline">Copyright &copy; 2024 </a>.</strong> All rights reserved.
     </footer>
 </div>
 <!-- ./wrapper -->
